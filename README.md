@@ -1,0 +1,3 @@
+1. Tạo 1 database trống tên jobhunter trong mysql
+2. Chỉnh sửa file application.properties cho phù hợp như upload file email,...
+3. tạo thư mục upload nằm cùng vị trí với dự án để lưu file.
